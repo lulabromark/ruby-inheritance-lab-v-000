@@ -26,4 +26,4 @@ jim.last_name = "Smith"
 
 jim.learn(some_knowledge)
 
-puts steve.learn
+
